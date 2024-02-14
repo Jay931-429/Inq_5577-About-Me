@@ -1,4 +1,5 @@
-> Hi, I’m @Jay931-429
+> Hi, I’m Inquisition_5577
+> An Aspiring IT Professional
 > I’m interested in computers, programming, networking etc.
 > I’m currently learning Python, Java, HTML, CSS, Javascript, C#, C++.
 > Has Knowledge in Computer Networks and Cybersecurity.
