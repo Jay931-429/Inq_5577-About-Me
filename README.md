@@ -1,6 +1,7 @@
 > Hi, I’m @Jay931-429
-> I’m interested in computers, programming and IT stuff.
-> I’m currently learning Linux(BASH), C/C++, Rust, Javascript/ Typescript. Assembly💀
+> I’m interested in computers, programming, networking etc.
+> I’m currently learning Python, Java, HTML, CSS, Javascript, C#, C++.
+> Has Knowledge in Computer Networks and Cybersecurity.
 > I’m still learning and honing my skills.
 
 
