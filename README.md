@@ -1,9 +1,11 @@
 > Hi, I’m Inquisition_5577
-> An Aspiring IT Professional
+> IT Guy
+> Cybersecurity
 > I’m interested in computers, programming, networking etc.
-> I’m currently learning Python, Java, HTML, CSS, Javascript, C#, C++.
+> Python, Java, HTML, CSS, Javascript, C#, C++.
 > Has Knowledge in Computer Networks and Cybersecurity.
-> I’m still learning and honing my skills.
+
+Burnice Burnice Burnice Burnice Burnice Burnice Go! Go!
 
 
 <!---
