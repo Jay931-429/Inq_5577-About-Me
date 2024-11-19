@@ -1,9 +1,18 @@
 > Hi, I’m Inquisition_5577
+> 
 > IT Guy
+> 
 > Cybersecurity
+>
+> SQL Database
+>
+> Web Dev
+> 
 > I’m interested in computers, programming, networking etc.
-> Python, Java, HTML, CSS, Javascript, C#, C++.
-> Has Knowledge in Computer Networks and Cybersecurity.
+> 
+> Python, Java, HTML, CSS, Javascript, C#, C++, SQL.
+> 
+> Has Knowledge in Computer Networks, Cybersecurity, Pen Testing and Ethical Hacking, Web and App Dev.
 
 Burnice Burnice Burnice Burnice Burnice Burnice Go! Go!
 
